@@ -4,6 +4,7 @@
 .idea
 .out/
 *.iml
+*.class
 build
 target
 out/production/YuliaAvdeeva/main/java/com/itechart/Main.class
